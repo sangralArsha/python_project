@@ -1,7 +1,7 @@
-# python_project
+# Project - Diabetes Analysis
 
 Overview
-This project focuses on the Exploratory Data Analysis (EDA) and classification model development for diabetes using Python. The analysis concentrates on a specific population—the Pima Indians tribe—and aims to explore various aspects related to diabetes prevalence among females aged at least 21 years old from this tribe.
+This project focuses on the Exploratory Data Analysis (EDA) and classification model development for diabetes using Python. The analysis concentrates on a specific population—the Pima Indian tribe—and aims to explore various aspects related to diabetes prevalence among females aged at least 21 years old from this tribe.
 
 Problem Statement
 Diabetes is a prevalent disease worldwide, and its increasing incidence raises concerns. Scientists believe that genetic factors and lifestyle contribute significantly to its occurrence. This project delves into understanding diabetes within the Pima tribe, where early onset in females has been observed. The dataset used in this analysis is curated based on specific constraints: all patients are females, at least 21 years old, and belong to the Pima Indian heritage.
